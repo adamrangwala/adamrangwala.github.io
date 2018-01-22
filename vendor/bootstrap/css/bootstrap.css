@@ -235,7 +235,8 @@ label {
   margin-bottom: .5rem;
 }
 
-button {
+
+{
   border-radius: 0;
 }
 
@@ -2503,8 +2504,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #fff;
+  border-color: #BD5D38;
 }
 
 .btn-primary:hover {
