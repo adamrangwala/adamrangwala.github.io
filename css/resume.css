@@ -145,3 +145,14 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+.blue-rectangle {
+  color:white;
+  text-transform: uppercase;
+  font-size:18px;
+  padding: 10px 20px 10px 200px;
+  background-color: rgba(3,78,136,0.7);
+  width: 200px;
+  position: relative;
+  margin-left: 50px;
+}
