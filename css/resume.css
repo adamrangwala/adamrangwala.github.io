@@ -156,3 +156,15 @@ a:hover, a:focus, a:active {
   position: relative;
   margin-left: 50px;
 }
+
+.blue-rectangle:before {
+  content: "";
+  position: absolute;
+  border: 21px solid transparent;
+  border-top-color: rgba(3,78,136,0.7);
+  border-right-color: rgba(3,78,136,0.7);
+  right: 100%;
+  top: 0;
+  width: 0;
+  height: 0
+}
