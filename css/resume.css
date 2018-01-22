@@ -59,9 +59,12 @@ h2 {
   color: #BD5D38;
 }
 
-.roundedrect {
-color: #BD5D38;
-border-radius: 15px;
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
